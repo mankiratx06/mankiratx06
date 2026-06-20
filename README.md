@@ -1,6 +1,6 @@
 # Hi, I'm Mankirat 👋
 
-I'm a Data Science student at the University of Melbourne focused on building intelligent systems that solve real-world problems. I enjoy bridging the gap between complex machine learning models and scalable software applications — from optimising deep learning inference pipelines to architecting full-stack web solutions.
+I am a data science student at the University of Melbourne with experience in Python, C, and SQL, focusing on machine learning, algorithm design, data analytics
 
 ---
 
