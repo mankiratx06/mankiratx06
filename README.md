@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**mankiratx06/mankiratx06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science student at the University of Melbourne with a strong focus on building intelligent systems that solve real-world problems. My passion lies in bridging the gap between complex machine learning models and scalable software applications. I enjoy tackling challenging engineering problems, from optimizing deep learning inference pipelines to architecting full-stack web solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Technical Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
