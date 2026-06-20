@@ -1,5 +1,4 @@
 # Hi, I'm Mankirat 👋
-
 I am a data science student at the University of Melbourne with experience in Python, C, and SQL, focusing on machine learning, algorithm design, data analytics
 
 ---
@@ -19,7 +18,7 @@ I am a data science student at the University of Melbourne with experience in Py
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| [StudyTimer](https://mankiratx06.github.io/studytimer](https://github.com/mankiratx06/studytimer) | Productivity app with a Pomodoro timer, word clock, and calendar that syncs with Google Calendar, Apple Calendar, or any `.ics` feed. Runs entirely in the browser — no account or setup needed. | HTML, CSS, JavaScript |
+| [StudyTimer](https://github.com/mankiratx06/studytimer) | Productivity app with a Pomodoro timer, word clock, and calendar that syncs with Google Calendar, Apple Calendar, or any `.ics` feed. Runs entirely in the browser — no account or setup needed. | HTML, CSS, JavaScript |
 
 ---
 
