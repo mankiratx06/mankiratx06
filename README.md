@@ -18,8 +18,9 @@ I am a data science student at the University of Melbourne with experience in Py
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| [StudyTimer](https://github.com/mankiratx06/studytimer) | Productivity app with a Pomodoro timer, word clock, and calendar that syncs with Google Calendar, Apple Calendar, or any `.ics` feed. Runs entirely in the browser — no account or setup needed. | HTML, CSS, JavaScript |
 | [Credit Risk Platform](https://github.com/mankiratx06/credit-risk-analyst) | End-to-end credit decisioning platform that predicts borrower default probability, assigns risk grades (A–E), and outputs approve / review / reject decisions. Includes portfolio analytics, stress testing, and a FastAPI dashboard. Reaches ~0.92 AUC on the bundled dataset. | Python, XGBoost, LightGBM, FastAPI, SQLite/PostgreSQL, Docker |
+| [Stock Sentiment & Returns](https://github.com/mankiratx06/stock-sentiment-returns) | NLP pipeline that scores financial sentiment from StockTwits, news, and SEC filings using FinBERT, then tests whether it predicts next-day equity returns. Includes quintile analysis, scatter plots, and OLS regression. | Python, FinBERT, HuggingFace Transformers, pandas, statsmodels |
+| [StudyTimer](https://github.com/mankiratx06/studytimer) | Productivity app with a Pomodoro timer, word clock, and calendar that syncs with Google Calendar, Apple Calendar, or any `.ics` feed. Runs entirely in the browser — no account or setup needed. | HTML, CSS, JavaScript |
 
 ---
 
